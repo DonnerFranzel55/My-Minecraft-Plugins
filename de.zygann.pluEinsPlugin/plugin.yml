@@ -1,0 +1,8 @@
+name: Plus_Eins-Plugin
+main: de.zygann.plusEinsPlugin.PlusEinsPlugin
+api-version: 1.16
+version: 1.0
+commands:
+ plusEins:
+  description: Addiert 1 zur eingegebender Zahl.
+  usage: /plusEins <integer>        

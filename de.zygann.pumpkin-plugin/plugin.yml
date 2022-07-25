@@ -1,0 +1,8 @@
+name: Pumpin-Plugin
+main: de.zygann.pumpkinPlugin.PumpkinPlugin
+api-version: 1.16
+version: 1.0
+commands:
+ pumpkinWall:
+  description: Plaziert an der angegebenden Kordinaten eine Mauer.
+  usage: /pumkinWall 
